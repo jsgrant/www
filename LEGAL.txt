@@ -1,0 +1,3 @@
+Unless explicitly stated otherwise: 
+All code / related documentation is under the MIT License & 
+All media, assets, blog posts, etc is under the CC-BY 4.X License.
