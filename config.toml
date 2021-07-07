@@ -1,4 +1,4 @@
-baseurl = "https://jsgrant.github.io/"
+baseurl = "https://jsgrant.github.io"
 title = "ACCESS GRANT'D"
 copyright = "Copyright &copy; 2021 - Joshua S. Grant"
 canonifyurls = true
